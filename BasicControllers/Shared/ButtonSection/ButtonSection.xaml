@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Name="BtnSection"
+             x:Class="BasicControllers.Shared.ButtonSection.ButtonSection">
+    <Border StrokeShape="RoundRectangle 10"
+            StrokeThickness="2"
+            Padding="10"
+            Margin="10">
+        <Border.GestureRecognizers>
+            <TapGestureRecognizer x:Name="btnSection"
+                                  Tapped="OnbtnSectionGestureRecognizerTapped" />
+        </Border.GestureRecognizers>
+        <Label Text="{Binding Title}" 
+                BindingContext="{x:Reference BtnSection}"/>
+    </Border>
+</ContentView>

@@ -45,3 +45,27 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BasicControllers.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/sanbornhermanos/Desktop/Maui/BasicControllers/BasicControllers/Shared/ButtonSection/ButtonSection.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BasicControllers.Shared.ButtonSection.ButtonSection.xaml
+build_metadata.AdditionalFiles.TargetPath = Shared/ButtonSection/ButtonSection.xaml
+build_metadata.AdditionalFiles.RelativePath = Shared/ButtonSection/ButtonSection.xaml
+
+[/Users/sanbornhermanos/Desktop/Maui/BasicControllers/BasicControllers/Views/HorizontalStackLayoutView/HorizontalStackLayoutView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BasicControllers.Views.HorizontalStackLayoutView.HorizontalStackLayoutView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/HorizontalStackLayoutView/HorizontalStackLayoutView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/HorizontalStackLayoutView/HorizontalStackLayoutView.xaml
+
+[/Users/sanbornhermanos/Desktop/Maui/BasicControllers/BasicControllers/Views/LayoutView/LayoutView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BasicControllers.Views.LayoutView.LayoutView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/LayoutView/LayoutView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/LayoutView/LayoutView.xaml
+
+[/Users/sanbornhermanos/Desktop/Maui/BasicControllers/BasicControllers/Views/VerticalStackLayoutView/VerticalStackLayoutView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BasicControllers.Views.VerticalStackLayoutView.VerticalStackLayoutView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/VerticalStackLayoutView/VerticalStackLayoutView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/VerticalStackLayoutView/VerticalStackLayoutView.xaml

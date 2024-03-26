@@ -4,6 +4,8 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:BasicControllers"
+    xmlns:layoutView="clr-namespace:BasicControllers.Views.LayoutView"
+    xmlns:verticalLayout="clr-namespace:BasicControllers.Views.VerticalStackLayoutView"
     Shell.FlyoutBehavior="Disabled"
     Title="BasicControllers">
 
@@ -12,4 +14,11 @@
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
+    <ShellContent   Title="Pagina Layout"
+                    ContentTemplate="{DataTemplate layoutView:LayoutView}"
+                    Route="LayoutView"/>
+
+    <ShellContent   Title="Vertical Layout"
+                    ContentTemplate="{DataTemplate verticalLayout:VerticalStackLayoutView}"
+                    Route="VerticalLayoutView"/>
 </Shell>
